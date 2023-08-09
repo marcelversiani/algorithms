@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/marcb/Downloads/labParadigm230511_1614/build/labTrocotests[1]_tests.cmake")
+  include("/mnt/c/Users/marcb/Downloads/labParadigm230511_1614/build/labTrocotests[1]_tests.cmake")
+else()
+  add_test(labTrocotests_NOT_BUILT labTrocotests_NOT_BUILT)
+endif()

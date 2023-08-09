@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build",
+  "command": "/usr/bin/clang++  -I/Users/marcelversiani/Programs/labTSP220609_1730/src -I/Users/marcelversiani/Programs/labTSP220609_1730/include -I/Users/marcelversiani/Programs/labTSP220609_1730/lib -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/libLabTsp.dir/lib/TspReader.cpp.o -c /Users/marcelversiani/Programs/labTSP220609_1730/lib/TspReader.cpp",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/lib/TspReader.cpp",
+  "output": "CMakeFiles/libLabTsp.dir/lib/TspReader.cpp.o"
+},
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build",
+  "command": "/usr/bin/clang++  -I/Users/marcelversiani/Programs/labTSP220609_1730/src -I/Users/marcelversiani/Programs/labTSP220609_1730/include -I/Users/marcelversiani/Programs/labTSP220609_1730/lib -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/include -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/labTsptests.dir/test/testTsp.cpp.o -c /Users/marcelversiani/Programs/labTSP220609_1730/test/testTsp.cpp",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/test/testTsp.cpp",
+  "output": "CMakeFiles/labTsptests.dir/test/testTsp.cpp.o"
+},
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build",
+  "command": "/usr/bin/clang++  -I/Users/marcelversiani/Programs/labTSP220609_1730/src -I/Users/marcelversiani/Programs/labTSP220609_1730/include -I/Users/marcelversiani/Programs/labTSP220609_1730/lib -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/include -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/labTsptests.dir/src/TspSolver.cpp.o -c /Users/marcelversiani/Programs/labTSP220609_1730/src/TspSolver.cpp",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/src/TspSolver.cpp",
+  "output": "CMakeFiles/labTsptests.dir/src/TspSolver.cpp.o"
+},
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -I/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock/include -I/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/include -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/clang++  -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock/include -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/include -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -I/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/include -I/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/clang++  -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/include -isystem /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest -g -std=c++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/marcelversiani/Programs/labTSP220609_1730/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/marcelversiani/Laboratórios/labTree230322_1343_2/build/labTreetests[1]_tests.cmake")
+  include("/Users/marcelversiani/Laboratórios/labTree230322_1343_2/build/labTreetests[1]_tests.cmake")
+else()
+  add_test(labTreetests_NOT_BUILT labTreetests_NOT_BUILT)
+endif()

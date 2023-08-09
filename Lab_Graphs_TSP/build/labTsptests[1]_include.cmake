@@ -1,0 +1,5 @@
+if(EXISTS "/Users/marcelversiani/Programs/labTSP220609_1730/build/labTsptests[1]_tests.cmake")
+  include("/Users/marcelversiani/Programs/labTSP220609_1730/build/labTsptests[1]_tests.cmake")
+else()
+  add_test(labTsptests_NOT_BUILT labTsptests_NOT_BUILT)
+endif()
